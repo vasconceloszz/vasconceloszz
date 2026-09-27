@@ -21,7 +21,7 @@
 ```text
 Hello, tenho 20 anos e atualmente trabalho com Infraestrutura de TI no Bradesco.
 
-Sou estudante de Cibersegurança, com foco em construir minha carreira em Segurança Ofensiva e Red Team.
+Sou estudante de Cibersegurança, com foco em construir minha carreira em Segurança Ofensiva & Red Team.
 
 Atualmente, aprofundo meus conhecimentos através do Novo Pentest Profissional (DESEC), com foco em fundamentos e prática de Pentest.
 
